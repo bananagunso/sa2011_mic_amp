@@ -56,7 +56,7 @@
   "git": {
     "repo_type": "ssh",
     "repo_username": "git",
-    "ssh_key": ""
+    "ssh_key": "C:\\Users\\kknet\\.ssh\\id_rsa"
   },
   "meta": {
     "filename": "sa2011_mic_amp.kicad_prl",
